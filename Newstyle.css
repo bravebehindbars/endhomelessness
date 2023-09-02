@@ -1,0 +1,46 @@
+#header_container{
+	color: green;
+
+}
+
+#mission_statement{
+	color: darkred;
+	margin: 400px;
+	border: 75px;
+	padding: 100px;
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	background-position: center;
+
+}
+
+.questions{
+	color:blue;
+	
+}
+
+.answers{
+	color: black;
+	margin: 20px;
+	border: 10px solid grey;
+	padding: 20px;
+	width: 100px;
+	height: 210px;
+	background-color: yellow;
+}
+
+#bgi {
+	background-image:url("hls.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+body{
+	color: yellow;
+}
+
+ 
